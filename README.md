@@ -1,22 +1,19 @@
 <div align="center">
 
-# 🚀 Pratik Agrawal
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pratik%20Agrawal&fontAlign=50&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20•%20Creative%20Editor%20•%20Designer&descAlignY=60&animation=fadeIn"/>
 
-### Full Stack Developer • Video Editor • Creative Designer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Creative+Video+Editor;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+I'm+Pratik;💻+Full+Stack+Developer;🎬+Creative+Video+Editor;📸+Photography+%26+Content+Creator;🎨+UI%2FUX+Design+Learner;⚡+Building+Modern+Digital+Experiences"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🚀%20OPEN%20TO%20WORK-0A1931?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Open_To_Work-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎬_Video_Editor-FF006E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📸_Photographer-8338EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻_Full_Stack_Developer-3A86FF?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📍%20AVAILABLE%20IN-000000?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/GUJARAT%20INDIA-8A2BE2?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=pratik-creates&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -24,42 +21,61 @@
 
 # 👨‍💻 Who I Am
 
-<img align="right" alt="coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I'm **Pratik Agrawal**, a passionate **Full Stack Developer** from India 🇮🇳  
-with strong interest in **modern web development** and **creative editing**.
+I'm **Pratik Agrawal**, a passionate **Full Stack Developer & Creative Editor** from India 🇮🇳
 
-I enjoy building responsive websites, backend systems, and modern UI experiences using React, Node.js, PHP & MongoDB.
+I love building:
+- 🌐 Modern Websites
+- 🎬 Cinematic Video Edits
+- 🎨 Creative UI Designs
+- 📸 Photography Content
+- ⚡ Interactive User Experiences
 
-> “I don't just write code — I engineer solutions.”
+Currently learning:
+- 🚀 Advanced React
+- 🎨 UI/UX Design
+- 📱 Modern Web Animations
+- ☁️ Cloud & Deployment
+
+> ✨ “Code. Create. Inspire.”
 
 <br>
 
 ```yaml
 name: Pratik Agrawal
-location: Uchchal, Tapi, Gujarat, India
-role: Full Stack Developer
-education: BCA Graduate
-speciality: Web Development & Creative Editing
+location: Gujarat, India
+education: TY BCA Student
+speciality: Full Stack + Creative Editing
 
-stack:
-  frontend: HTML5 • CSS3 • JavaScript • React
-  backend: Node.js • PHP
-  database: MongoDB • MySQL
-  tools: Git • GitHub • VS Code • Figma
+skills:
+  frontend: HTML5, CSS3, JavaScript, React
+  backend: Node.js, PHP
+  database: MongoDB, MySQL
+  creative_tools: Premiere Pro, Photoshop, Figma
+  tools: Git, GitHub, VS Code
 
-fun_fact: I debug better with music 🎧
+fun_fact: I edit videos better with music 🎧
 ```
 
 ---
 
-# 🔥 Daily Streak & Max Streak
+# 🔥 Daily Streak & Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-creates&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-creates&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratik-creates&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-creates&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 ---
 
@@ -73,43 +89,53 @@ fun_fact: I debug better with music 🎧
 
 ---
 
-# 🛠 Tech Stack & Tools
+# 🛠 Tech Stack & Creative Tools
 
-## Frontend
+## 💻 Frontend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
 
 </p>
 
 ---
 
-## Backend
+## ⚙️ Backend
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,php"/>
 
 </p>
 
 ---
 
-## Database
+## 🗄 Database
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </p>
 
 ---
 
-## Tools
+## 🎨 Creative Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=figma,ps,pr,ae"/>
+
+</p>
+
+---
+
+## 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
@@ -150,11 +176,27 @@ fun_fact: I debug better with music 🎧
 <div align="center">
 
 <a href="https://instagram.com/ap_edittzz">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/pratik-creates">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:pratikagrawal5065@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://behance.net">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
