@@ -64,7 +64,7 @@ fun_fact: I edit videos better with music 🎧
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-creates&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pratik-creates&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
