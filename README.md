@@ -64,17 +64,14 @@ fun_fact: I edit videos better with music 🎧
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pratik-creates&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-creates&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratik-creates&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-creates&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-creates&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
 
 
 ---
@@ -127,12 +124,15 @@ fun_fact: I edit videos better with music 🎧
 
 <img src="https://skillicons.dev/icons?i=figma,ps"/>
 
-<img height="48" src="https://cdn.simpleicons.org/canva/00C4CC"/>
-<img height="48" src="https://cdn.simpleicons.org/capcut/000000"/>
-<img height="48" src="https://cdn.simpleicons.org/snapseed/00C853"/>
-<img height="48" src="https://cdn.simpleicons.org/lightroom/31A8FF"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snapseed-00C853?style=for-the-badge&logo=googlephotos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
 
 </p>
+
 
 
 ---
