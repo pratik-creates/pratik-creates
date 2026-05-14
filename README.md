@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Pratik%20Agrawal&fontAlign=50&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20•%20Creative%20Editor%20•%20Designer&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6DD5FA,100:C39BFF&text=Pratik%20Agrawal&fontAlign=50&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20•%20Creative%20Editor%20•%20Designer&descAlignY=60&animation=fadeIn"/>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=👋+Hey+There!+I'm+Pratik;💻+Full+Stack+Developer;🎬+Creative+Video+Editor;📸+Photography+%26+Content+Creator;🎨+UI%2FUX+Design+Learner;⚡+Building+Modern+Digital+Experiences"/>
 
