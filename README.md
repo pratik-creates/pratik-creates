@@ -125,7 +125,7 @@ fun_fact: I edit videos better with music 🎧
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,ps,pr,ae"/>
+<img src="https://skillicons.dev/icons?i=figma,ps,capcut,snapseed"/>
 
 </p>
 
