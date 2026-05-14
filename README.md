@@ -125,13 +125,12 @@ fun_fact: I edit videos better with music 🎧
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,lightroom"/>
+<img src="https://skillicons.dev/icons?i=figma,ps"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snapseed-00C853?style=for-the-badge&logo=googlephotos&logoColor=white"/>
+<img height="48" src="https://cdn.simpleicons.org/canva/00C4CC"/>
+<img height="48" src="https://cdn.simpleicons.org/capcut/000000"/>
+<img height="48" src="https://cdn.simpleicons.org/snapseed/00C853"/>
+<img height="48" src="https://cdn.simpleicons.org/lightroom/31A8FF"/>
 
 </p>
 
