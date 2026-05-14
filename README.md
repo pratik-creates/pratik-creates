@@ -207,10 +207,10 @@ fun_fact: I edit videos better with music 🎧
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,20,14,17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6DD5FA,100:C39BFF"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=7FDBFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Code+•+Create+•+Inspire;Building+Modern+Digital+Experiences;Open+for+Collaboration+%26+Creative+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=C39BFF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Code+•+Create+•+Inspire;Building+Modern+Digital+Experiences;Open+for+Collaboration+%26+Creative+Projects"/>
 
 </div>
